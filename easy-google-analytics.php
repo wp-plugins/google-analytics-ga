@@ -7,7 +7,7 @@
  * Plugin URI:        http://www.mbjtechnolabs.com
  * Description:       Enables google analytics for WordPress website.
  * Version:           1.0.0
- * Author:            johnny-manziel
+ * Author:            phpwebcreators
  * Author URI:        http://www.mbjtechnolabs.com
  * License:           GNU General Public License v3.0
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
