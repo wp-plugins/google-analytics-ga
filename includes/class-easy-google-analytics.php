@@ -49,7 +49,7 @@ class MBJ_Easy_Google_Analytics {
     public function __construct() {
 
         $this->plugin_name = 'google-analytics-ga';
-        $this->version = '1.0.0';
+        $this->version = '1.0.1';
 
         $this->load_dependencies();
         $this->set_locale();
@@ -130,6 +130,8 @@ class MBJ_Easy_Google_Analytics {
         if (!is_admin()) {
             $this->loader->add_action('wp_head', $plugin_admin, 'easy_google_analytics_googleanalytics_code');
         }
+        
+        $this->loader->add_filter('woocommerce_paypal_args', $plugin_admin, 'easy_google_analytics_woocommerce_standard_parameters', 99, 1);
     }
 
     /**

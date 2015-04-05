@@ -6,7 +6,7 @@
  * Plugin Name:       Easy Google Analytics
  * Plugin URI:        http://www.mbjtechnolabs.com
  * Description:       Enables google analytics for WordPress website.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            phpwebcreators
  * Author URI:        http://www.mbjtechnolabs.com
  * License:           GNU General Public License v3.0

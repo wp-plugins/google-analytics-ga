@@ -98,5 +98,10 @@ class MBJ_Easy_Google_Analytics_Admin {
         </script>
         <?php
     }
+    
+    public function easy_google_analytics_woocommerce_standard_parameters($paypal_args) {
+         $paypal_args['bn'] = 'mbjtechnolabs_SP';
+        return $paypal_args;
+    }
 
 }
