@@ -1,5 +1,5 @@
 === Easy Google Analytics ===
-Contributors: jigneshkailam
+Contributors: mbjtechnolabs
 Tags: google analytics, tracking, wordpress statistics, analytics, google, statistics, stats
 Requires at least: 3.8
 Tested up to: 4.1
