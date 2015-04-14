@@ -1,9 +1,9 @@
 === Easy Google Analytics ===
-Contributors: mbjtechnolabs
+Contributors: johnwickjigo
 Tags: google analytics, tracking, wordpress statistics, analytics, google, statistics, stats
 Requires at least: 3.8
-Tested up to: 4.1
-Stable tag: 1.0.3
+Tested up to: 4.1.1
+Stable tag: trunk
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
