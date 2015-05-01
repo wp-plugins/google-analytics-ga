@@ -2,7 +2,7 @@
 Contributors: johnwickjigo
 Tags: google analytics, tracking, wordpress statistics, analytics, google, statistics, stats
 Requires at least: 3.8
-Tested up to: 4.1.1
+Tested up to: 4.2.1
 Stable tag: trunk
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -33,6 +33,8 @@ In the search field type "Easy Google Analytics" and click Search Plugins. Once 
 2. Admin side setting
 
 == Changelog ==
-
+= 1.2.0 =
+*       1/5/2015 ( 1.2.0 )
+*       Compatible with WordPress 4.2.1 version
 = 1.0.0 - 07.07.2015 =
 *   Enables google analytics for WordPress website.

@@ -49,7 +49,7 @@ class MBJ_Easy_Google_Analytics {
     public function __construct() {
 
         $this->plugin_name = 'google-analytics-ga';
-        $this->version = '1.0.1';
+        $this->version = '1.2.0';
 
         $this->load_dependencies();
         $this->set_locale();
