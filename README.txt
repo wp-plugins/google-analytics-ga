@@ -1,5 +1,6 @@
 === Easy Google Analytics ===
 Contributors: johnwickjigo
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=68A46XPQMRCJN
 Tags: google analytics, tracking, wordpress statistics, analytics, google, statistics, stats
 Requires at least: 3.8
 Tested up to: 4.2.1
